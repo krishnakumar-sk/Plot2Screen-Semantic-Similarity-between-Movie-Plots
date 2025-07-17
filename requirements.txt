@@ -2,3 +2,21 @@ pandas
 scikit-learn
 nltk
 streamlit
+
+
+
+# Indian Movie Recommendation System 🎬
+
+This project recommends similar Indian movies based on plot summaries using NLP and cosine similarity.
+
+## Setup
+
+1. Install requirements:
+
+pip install -r requirements.txt
+
+2. Run the app:
+streamlit run app.py
+
+## Dataset
+A sample of Indian movies with plot summaries is included.
